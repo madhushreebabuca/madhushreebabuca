@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning **Azure Certifications, GCP Cloud**
 
 <h3 align="left">Azure Certification Links:</h3>
-<h3 align="left">1. Azure Fundamentals </h3>
-<p align="left"> <a href="https://coursera.org/share/3382d21ecb23d781dc752f8275fde6bb" target="_blank" rel=“noopener”> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madhushreebabu17" height="30" width="40" /></a>
+<h5 align="left">1. Azure Fundamentals </h5>
+<p align="left"> <a href="https://coursera.org/share/3382d21ecb23d781dc752f8275fde6bb" target="_blank" rel=“noopener”> <img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg](https://blogs.sap.com/wp-content/uploads/2021/05/azure-fundamentals-600x600-1.png)" height="30" width="40" /></a>
 <h3 align="left">2. Azure Data Fundamentals </h3>
 <p align="left"> <a href="https://coursera.org/share/b6ab34543d409c236ff94d0fb2f98f9a" target="blank" rel=“noopener”>
 <h3 align="left">3. Azure AI Fundamentals </h3>
