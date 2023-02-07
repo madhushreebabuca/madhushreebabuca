@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Madhushree</h1>
 <h3 align="center">A passionate Data enthusiast from Canada</h3>
-img align="right" alt="Coding" width="400" src="https://tenor.com/view/programming-gif-25868426")
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhushreebabuca&label=Profile%20views&color=0e75b6&style=flat" alt="madhushreebabuca" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhushreebabuca" alt="madhushreebabuca" /></a> </p>
@@ -11,12 +9,12 @@ img align="right" alt="Coding" width="400" src="https://tenor.com/view/programmi
 - 🌱 I’m currently learning **Azure Certifications, GCP Cloud**
 
 <h3 align="left">Azure Certification Links:</h3>
-<h3 align="left">1. Azure Fundamentals: </h3>
-<p align="left"> <a href="https://coursera.org/share/3382d21ecb23d781dc752f8275fde6bb" target="_blank" rel="noreferrer">
-<h3 align="left">2. Azure Data Fundamentals: </h3>
-<p align="left"> <a href="https://coursera.org/share/b6ab34543d409c236ff94d0fb2f98f9a" target="_blank" rel="noreferrer">
-<h3 align="left">3. Azure AI Fundamentals: </h3>
-<p align="left"> <a href="https://coursera.org/share/ed4fbebe34758da2e4bf5e875333d7ce" target="_blank" rel="noreferrer">
+<h3 align="left">1. Azure Fundamentals </h3>
+<p align="left"> <a href="https://coursera.org/share/3382d21ecb23d781dc752f8275fde6bb" target="blank">
+<h3 align="left">2. Azure Data Fundamentals </h3>
+<p align="left"> <a href="https://coursera.org/share/b6ab34543d409c236ff94d0fb2f98f9a" target="blank">
+<h3 align="left">3. Azure AI Fundamentals </h3>
+<p align="left"> <a href="https://coursera.org/share/ed4fbebe34758da2e4bf5e875333d7ce" target="blank">
 
 - 📫 How to reach me **madhushreebabuca@gmail.com**
 
