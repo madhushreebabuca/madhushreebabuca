@@ -10,11 +10,11 @@
 
 <h3 align="left">Azure Certification Links:</h3>
 <h3 align="left">1. Azure Fundamentals </h3>
-<p align="left"> <a href="https://coursera.org/share/3382d21ecb23d781dc752f8275fde6bb" target="blank">
+<p align="left"> <a href="https://coursera.org/share/3382d21ecb23d781dc752f8275fde6bb" target="_blank" rel=“noopener”> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madhushreebabu17" height="30" width="40" /></a>
 <h3 align="left">2. Azure Data Fundamentals </h3>
-<p align="left"> <a href="https://coursera.org/share/b6ab34543d409c236ff94d0fb2f98f9a" target="blank">
+<p align="left"> <a href="https://coursera.org/share/b6ab34543d409c236ff94d0fb2f98f9a" target="blank" rel=“noopener”>
 <h3 align="left">3. Azure AI Fundamentals </h3>
-<p align="left"> <a href="https://coursera.org/share/ed4fbebe34758da2e4bf5e875333d7ce" target="blank">
+<p align="left"> <a href="https://coursera.org/share/ed4fbebe34758da2e4bf5e875333d7ce" target="blank" rel=“noopener”>
 
 - 📫 How to reach me **madhushreebabuca@gmail.com**
 
