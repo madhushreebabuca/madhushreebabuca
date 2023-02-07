@@ -10,11 +10,11 @@
 
 <h3 align="left">Azure Certification Links:</h3>
 <h5 align="left">1. Azure Fundamentals </h5>
-<p align="left"> <a href="https://coursera.org/share/3382d21ecb23d781dc752f8275fde6bb" target="_blank" rel=“noopener”> <img align="center" src="https://blogs.sap.com/wp-content/uploads/2021/05/azure-fundamentals-600x600-1.png" alt="madhushreebabu17" height="30" width="40" /></a>
+<p align="left"> <a href="https://coursera.org/share/3382d21ecb23d781dc752f8275fde6bb" target="_blank" rel=“noopener”> <img align="center" src="https://blogs.sap.com/wp-content/uploads/2021/05/azure-fundamentals-600x600-1.png" height="30" width="40" /></a>
 <h3 align="left">2. Azure Data Fundamentals </h3>
-<p align="left"> <a href="https://coursera.org/share/b6ab34543d409c236ff94d0fb2f98f9a" target="blank" rel=“noopener”>
+<p align="left"> <a href="https://coursera.org/share/b6ab34543d409c236ff94d0fb2f98f9a" target="blank" rel=“noopener”> <img align="center" src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" height="30" width="40" /></a>
 <h3 align="left">3. Azure AI Fundamentals </h3>
-<p align="left"> <a href="https://coursera.org/share/ed4fbebe34758da2e4bf5e875333d7ce" target="blank" rel=“noopener”>
+<p align="left"> <a href="https://coursera.org/share/ed4fbebe34758da2e4bf5e875333d7ce" target="blank" rel=“noopener”> <img align="center" src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" height="30" width="40" /></a>
 
 - 📫 How to reach me **madhushreebabuca@gmail.com**
 
